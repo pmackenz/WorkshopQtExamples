@@ -247,6 +247,17 @@
   </action>
  </widget>
  <layoutdefault spacing="6" margin="11"/>
+ <tabstops>
+  <tabstop>LE_first_name</tabstop>
+  <tabstop>LE_last_name</tabstop>
+  <tabstop>LE_date_month</tabstop>
+  <tabstop>LE_date_day</tabstop>
+  <tabstop>LE_date_year</tabstop>
+  <tabstop>LE_address</tabstop>
+  <tabstop>LE_city</tabstop>
+  <tabstop>cbx_state</tabstop>
+  <tabstop>LE_zip</tabstop>
+ </tabstops>
  <resources/>
  <connections/>
 </ui>
